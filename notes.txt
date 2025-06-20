@@ -1,0 +1,71 @@
+1. Hero Section (Intro)
+Purpose: Instantly explain what Bagmails is and invite users to act.
+Use From Template: Hero with CTA (hero-1 or hero-6)
+Content:
+
+Headline (value proposition)
+
+Subheading
+
+Two CTAs: “Post a Delivery” and “Become a Traveler”
+
+Background image or illustration
+
+2. How It Works
+Purpose: Explain the 3-step process
+Use From Template: Steps (steps-1 or process-2)
+Steps:
+
+Post a Request
+
+Match with a Traveler
+
+Meet & Deliver
+
+3. For Travelers & Senders
+Purpose: Clarify who the platform is for
+Use From Template: Features (features-3 or tabs-1)
+
+Two tabs or side-by-side blocks:
+
+For Travelers: Earn by carrying
+
+For Senders: Ship faster & cheaper
+
+4. Benefits / Why Bagmails
+Purpose: Highlight advantages
+Use From Template: Features (features-5, features-11)
+
+Save money
+
+Secure & verified users
+
+Eco-friendly
+
+Flexible and fast
+
+5. Trust and Testimonials
+Purpose: Build credibility
+Use From Template: Testimonials (testimonials-1, testimonials-4)
+
+Show real user reviews (or placeholder ones)
+
+6. Call to Action (CTA)
+Purpose: Encourage final conversion
+Use From Template: CTA (cta-2, cta-3)
+
+Headline like “Start Shipping Smarter Today”
+
+2 buttons: Send Parcel / Become Traveler
+
+7. Footer
+Purpose: Site links & contact info
+Use From Template: Footer (footer-1)
+
+Navigation, social icons, contact email
+
+
+
+
+
+https://github.com/Appfoster/bagmails-website.git --> to clone
